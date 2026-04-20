@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 *.pkl
 *.h5
-*.pth
 .env
 .DS_Store
