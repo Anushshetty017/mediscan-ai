@@ -30,15 +30,15 @@ print(f"[INFO] Running on: {device}")
 # ==========================================
 BRAIN_CLASSES = ["glioma", "meningioma", "notumor", "pituitary"]
 SKIN_CLASSES = [
-    "vascular lesion",
-    "squamous cell carcinoma",
-    "seborrheic keratosis",
-    "pigmented benign keratosis",
-    "nevus",
-    "melanoma",
-    "dermatofibroma",
-    "basal cell carcinoma",
-    "actinic keratosis"
+ "actinic keratosis",
+ "basal cell carcinoma",
+ "dermatofibroma",
+ "melanoma",
+ "nevus",
+ "pigmented benign keratosis",
+ "seborrheic keratosis",
+ "squamous cell carcinoma",
+ "vascular lesion"
 ]
 
 # ==========================================
